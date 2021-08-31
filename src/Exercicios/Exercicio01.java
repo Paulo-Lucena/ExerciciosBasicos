@@ -31,14 +31,6 @@ public class Exercicio01 {
         System.out.println("Sua idade é de " + leitorDias + " dias");
 
 
-        //saída
-
-
-
-
-
-
-
 
     }
 
