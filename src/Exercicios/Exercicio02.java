@@ -2,7 +2,7 @@ package Exercicios;
 
 import java.util.ArrayList;
 
-public class Exercicio2 {
+public class Exercicio02 {
     public static void main(String[] args) {
         ArrayList<Double> conjuto1 = new ArrayList<>();
         ArrayList<Double> conjuto2 = new ArrayList<>();
