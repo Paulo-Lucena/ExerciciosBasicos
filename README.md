@@ -11,8 +11,8 @@ mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês co
 números 4, 5 e 6. A soma das duas médias. A média das médias.
 
 3. Informar um saldo e imprimir o saldo com reajuste de 1%.
-4. 
-5. Escrever um algoritmo que lê:
+
+4. Escrever um algoritmo que lê:
 - a porcentagem do IPI a ser acrescido no valor das peças
 - o código da peça 1, valor unitário da peça 1, quantidade de peças 1
 - o código da peça 2, valor unitário da peça 2, quantidade de peças 2
