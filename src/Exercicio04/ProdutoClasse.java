@@ -7,7 +7,7 @@ public class ProdutoClasse {
     private  int quantidadeP;
     private double ipiP;
 
-    public ProdutoClasse(int codP, int valorP, int quantidadeP, double ipi) {
+    public ProdutoClasse(int codP, int valorP, int quantidadeP, double ipiP) {
         this.codP = codP;
         this.valorP = valorP;
         this.quantidadeP = quantidadeP;
